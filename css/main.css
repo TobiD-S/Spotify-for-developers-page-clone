@@ -1623,52 +1623,6 @@ textarea.form-control {
     width: 1px;
 }
 
-article.post .bg-info {
-    padding: 11.5px;
-}
-
-.alert.alert-larger-text {
-    font-size: 14px;
-}
-
-@media (min-width: 768px) {
-    .related-posts {
-        display: flex;
-    }
-    .related-posts section:first-of-type {
-        padding-right: 2em;
-    }
-    .related-posts section:last-of-type {
-        padding-left: 2em;
-    }
-}
-
-.related-posts section {
-    flex: 1;
-}
-
-.related-posts section:first-of-type {
-    padding: 1em 1em 1em 0;
-    text-align: right;
-}
-
-.related-posts section:last-of-type {
-    padding: 1em 0 1em 1em;
-}
-
-.related-posts section h4 {
-    font-weight: 700;
-    margin: 10px 0;
-}
-
-.related-posts section .post-date {
-    margin-top: 3px;
-}
-
-.related-posts .vertical-divider {
-    height: inherit;
-}
-
 .start .has-hover-overlay {
     padding: 0;
     display: flex;
@@ -1726,10 +1680,6 @@ article.post .bg-info {
 .start .hero-title a:hover {
     color: #222326;
     text-decoration: underline;
-}
-
-.start .home {
-    padding: 0;
 }
 
 @media (min-width: 1200px) {
