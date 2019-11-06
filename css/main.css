@@ -394,6 +394,11 @@ tfoot tr.unhoverable td {
     word-wrap: break-word;
 }
 
+#cookies-alert {
+    background-color: #1196d3;
+    color: #fff;
+}
+
 .tile {
     background-repeat: no-repeat;
     background-size: cover;
